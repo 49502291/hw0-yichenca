@@ -50,7 +50,7 @@ http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots
 <goal>perform</goal>
 </goals>
 <configuration>
-<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+<pomFileName>hw0-yichenca/pom.xml</pomFileName>
 </configuration>
 </execution>
 </executions>
